@@ -1,5 +1,7 @@
 # 📊 TelecomX – Análise de Evasão de Clientes
 
+[Acesse o quadro do projeto](https://trello.com/b/zzPBkZ1f/telecomxbr)
+
 Este projeto tem como objetivo explorar dados de clientes da empresa fictícia **TelecomX**, visando identificar padrões de evasão (churn) e propor estratégias de retenção baseadas em insights extraídos da análise exploratória.
 
 ## 🎯 Propósito da Análise
